@@ -1,2 +1,3 @@
 Hello All!!!
 HTML page was add to project
+It's a beutiful day to learn more about git
